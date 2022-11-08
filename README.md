@@ -8,7 +8,7 @@
 
 - :disappointed_relieved: I know two or three things about **bootstrap css***
 
-- :sunny: now I'am learning react, successfully create one dummy project using **laravel** as backend and **react** in the front end.
+- :sunny: now I'am learning react, using **laravel** as backend and **react** in the front end.
 
 - 📫 How to reach me : email to kautsar.rahman@gmail.com
 
