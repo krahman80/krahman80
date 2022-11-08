@@ -6,13 +6,11 @@
 
 - ✨ But now I'm using **PHP** and **laravel**, to create web. see more here : [https://github.com/krahman80?tab=repositories](https://github.com/krahman80?tab=repositories "project I have been created so far")
 
-- :disappointed_relieved: I know two or three things about **bootstrap css***
+- :disappointed_relieved: I know two or three things about **bootstrap css**
 
 - :sunny: now I'am learning react, using **laravel** as backend and **react** in the front end.
 
 - 📫 How to reach me : email to kautsar.rahman@gmail.com
-
-- I will add more to this readme when i already know what to write...
 
 <!--
 **krahman80/krahman80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
