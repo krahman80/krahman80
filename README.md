@@ -2,9 +2,9 @@
 
 - 🔭 I'm a freelance developer.
 
-- :fire: I used to work with ASP.net using c# and mssql server, creating reporting services,
+- :fire: I have experience developing with ASP.net MVC using c# and mssql server.
 
-- ✨ But now I'm using **PHP**, **laravel** and **vue js**, to create web. see more here : [https://github.com/krahman80?tab=repositories](https://github.com/krahman80?tab=repositories "project I have been created so far")
+- ✨ But now I'm using **PHP**, **laravel** to create web. see more here : [https://github.com/krahman80?tab=repositories](https://github.com/krahman80?tab=repositories "project I have been created so far")
 
 - 📫 How to reach me : email to kautsar.rahman@gmail.com
 
