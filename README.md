@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahman</h1>
 
-- 🔭 I'm a freelance developer.
+- 🔭 I'm a web developer.
 
 - :fire: I have experience developing with ASP.net MVC using c# and mssql server.
 
